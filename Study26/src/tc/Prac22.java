@@ -12,5 +12,7 @@ class Parent{
 
 
 class Child{
-	
+    void hi(){
+	    System.out.println("hello github");
+    }
 }
