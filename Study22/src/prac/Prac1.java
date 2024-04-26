@@ -31,7 +31,7 @@ class Member{
 		age = c;
 		memNum =d ;
 		
-		
+		이거되냐?
 		
 	}
 	
